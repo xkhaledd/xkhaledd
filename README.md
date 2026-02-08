@@ -15,7 +15,7 @@
 I'm a **Communications & Electronics Engineering** student at **Nahda University (NUB)**. My passion lies in understanding how signals travel and how hardware interacts with software to build the world's connectivity. From my early days disassembling hardware to studying complex communication systems, I thrive on solving "how things actually work".
 
 - 🎓 **Education:** Specializing in **Communications & Electronics**.
-- 🛠️ **Experience:** Strong background in smartphone software maintenance and recruitment.
+- 🛠️ **Experience:** Strong background in smartphone software maintenance and recruitment at Mosala Pioneers.
 - 🌱 **Current Focus:** Mastering **Signal Processing**, **Embedded Systems**, and **Network Protocols**.
 - 🔬 **Interests:** IoT, RF Engineering, and Microcontroller interfacing.
 
