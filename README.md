@@ -12,10 +12,10 @@
 ---
 
 ### ⚡ About Me
-I'm a **Communications & Electronics Engineering** student at **Nahda University (NUB)**. My passion lies in understanding how signals travel and how hardware interacts with software to build the world's connectivity. From my early days disassembling hardware to studying complex communication systems, I thrive on solving "how things actually work".
+I'm a **Communications & Electronics Engineering** student at **Nahda University (NUB)**. My passion lies in understanding how signals travel and how hardware interacts with software to build the world's connectivity. From my early days disassembling hardware to studying complex communication systems, I thrive on solving "how things actually work."
 
-- 🎓 **Education:** Specializing in **Communications & Electronics**.
-- 🛠️ **Experience:** Strong background in smartphone software maintenance and recruitment at Mosala Pioneers.
+- 🎓 **Education:** Specializing in **Communications & Electronics Engineering** at Nahda University (NUB).
+- 🛠️ **Experience:** Former **Recruiter at Mosala Pioneers** and smartphone software maintenance specialist.
 - 🌱 **Current Focus:** Mastering **Signal Processing**, **Embedded Systems**, and **Network Protocols**.
 - 🔬 **Interests:** IoT, RF Engineering, and Microcontroller interfacing.
 
