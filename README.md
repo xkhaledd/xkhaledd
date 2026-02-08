@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Khaled%20Taha&fontSize=90&animation=fadeIn" />
 </p>
 
-### 📡 Communications & Electronics Engineering Student
+### 📡 Communications & Electronics Engineering Student 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Bani%20Suwayf,%20Egypt-blue?style=flat-square&logo=googlemaps" alt="Location">
   <img src="https://img.shields.io/badge/Education-Nahda%20University%20(NUB)-red?style=flat-square&logo=gitbook" alt="Education">
@@ -12,38 +12,23 @@
 ---
 
 ### ⚡ About Me
-I'm a **Communications & Electronics Engineering** student at **Nahda University (NUB)**. My passion lies in understanding how signals travel and how hardware interacts with software to build the world's connectivity. From my early days disassembling hardware to studying complex communication systems, I thrive on solving "how things actually work."
+I'm a **Communications & Electronics Engineering** student at **Nahda University (NUB)**. My journey with technology started in 2nd grade when I first disassembled a PC. Today, I'm officially starting my specialization, focusing on how signals and hardware shape our world.
 
-- 🎓 **Education:** Specializing in **Communications & Electronics Engineering** at Nahda University (NUB).
-- 🛠️ **Experience:** Former **Recruiter at Mosala Pioneers** and smartphone software maintenance specialist.
-- 🌱 **Current Focus:** Mastering **Signal Processing**, **Embedded Systems**, and **Network Protocols**.
-- 🔬 **Interests:** IoT, RF Engineering, and Microcontroller interfacing.
+- 🎓 **Current Status:** Junior student exploring the fundamentals of Communications & Electronics.
+- 🛠️ **Experience:** Background in smartphone software maintenance and recruitment at Mosala Pioneers.
+- 🚀 **The Journey:** Currently diving into **Signal Processing** and learning how **Embedded Systems** are built.
+- 🔬 **Exploring:** Actively studying Microcontrollers (AVR), Network Protocols, and Electronic Circuit Design.
 
 ---
 
-### 🛠️ Engineering Tech Stack
+### 🛠️ Learning Path & Engineering Tools
 
-| Category | Skills / Tools |
+| Category | Currently Learning / Exploring |
 | :--- | :--- |
-| **Embedded & HW** | ![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-black?style=for-the-badge&logo=micro-dot-strategy) ![AVR](https://img.shields.io/badge/AVR-blue?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-040308?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Network_Protocols-444444?style=for-the-badge) |
-| **Simulation** | ![Proteus](https://img.shields.io/badge/Proteus-blue?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) |
-| **Languages** | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-
----
-
-### 📊 Engineering Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xkhaledd&show_icons=true&theme=tokyonight&count_private=true" width="48%" alt="Khaled's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xkhaledd&theme=tokyonight" width="48%" alt="Khaled's Streak" />
-</p>
-
----
-
-### 💡 Future Goals
-- 📡 **Telecommunications Expert:** Aiming to design and optimize next-gen wireless communication networks.
-- 🚗 **Automotive Systems:** Applying embedded software knowledge to the future of connected vehicles.
-- 📈 **Professional Excellence:** Leveraging my background in recruitment to build and lead high-performing engineering teams.
+| **Embedded & HW** | ![Embedded Systems](https://img.shields.io/badge/Learning_Embedded-black?style=for-the-badge&logo=micro-dot-strategy) ![AVR](https://img.shields.io/badge/Exploring_AVR-blue?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-040308?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Learning_Protocols-444444?style=for-the-badge) |
+| **Simulation** | ![Proteus](https://img.shields.io/badge/Proteus_Simulation-blue?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB_Foundations-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/Improving_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++_Basics-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Starting_Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 ---
 
@@ -68,5 +53,5 @@ I'm a **Communications & Electronics Engineering** student at **Nahda University
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
   <br>
-  <i>"The art of communication is the language of leadership."</i>
+  <i>"Engineering is not just a degree; it's a lifelong journey of learning."</i>
 </p>
