@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Khaled%20Taha&fontSize=90&animation=fadeIn" />
 </p>
 
-### 📡 Communications & Computers Engineering Student 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</p>
+
+### 📡 Communications & Computers Engineering Engineer in the Making 
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Bani%20Suwayf,%20Egypt-blue?style=flat-square&logo=googlemaps" alt="Location">
   <img src="https://img.shields.io/badge/Education-Nahda%20University%20(NUB)-red?style=flat-square&logo=gitbook" alt="Education">
@@ -12,23 +16,32 @@
 ---
 
 ### ⚡ About Me
-I'm a **Communications & Computers Engineering (CCE)** student at **Nahda University (NUB)**. My journey with technology started early, from disassembling PCs in primary school to working in smartphone software maintenance. Now, I'm officially starting my academic specialization to understand the deep physics of signals and the logic of hardware.
+I'm a **Communications & Computers Engineering (CCE)** student at **Nahda University (NUB)**. My journey with technology started early, from disassembling PCs in primary school to working professionally in smartphone software maintenance. Currently, I'm deep into my academic specialization, mastering the physics of signals and advanced hardware logic.
 
-- 🎓 **Current Status:** Second-year engineering student, newly specialized in **CCE**.
-- 🛠️ **Experience:** Practical background in smartphone software & former Recruiter at Mosala Pioneers.
-- 🚀 **The Journey:** Currently exploring the fundamentals of **Signal Processing** and **Embedded Systems**.
-- 🔬 **Interests:** IoT, Microcontrollers (AVR), and Network Architecture.
+- 🎓 **Status:** Advanced Student in **CCE**, currently bridging the gap between theory and advanced application.
+- 🛠️ **Experience:** Solid background in smartphone software & Former Recruiter at Mosala Pioneers.
+- 🚀 **Progress:** Successfully navigating through **Signal Processing** and complex **Embedded Systems** architectures.
+- 🔬 **Tech Interests:** IoT, Microcontrollers (AVR), and Network Architecture.
 
 ---
 
-### 🛠️ Learning Path & Engineering Tools
+### 🛠️ Engineering Tech Stack (Advanced Progress)
 
-| Category | Currently Learning / Exploring |
+| Category | Skills & Tools |
 | :--- | :--- |
-| **Embedded & HW** | ![Embedded Systems](https://img.shields.io/badge/Learning_Embedded-black?style=for-the-badge&logo=micro-dot-strategy) ![AVR](https://img.shields.io/badge/Exploring_AVR-blue?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
-| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-040308?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Learning_Protocols-444444?style=for-the-badge) |
-| **Simulation** | ![Proteus](https://img.shields.io/badge/Proteus_Simulation-blue?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB_Foundations-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) |
-| **Languages** | ![C](https://img.shields.io/badge/Learning_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++_Basics-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Starting_Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Embedded & HW** | ![Embedded Systems](https://img.shields.io/badge/Advancing_Embedded-black?style=for-the-badge&logo=micro-dot-strategy) ![AVR](https://img.shields.io/badge/Mastering_AVR-blue?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino_Expertise-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Networking** | ![Cisco](https://img.shields.io/badge/Cisco_Expertise-040308?style=for-the-badge&logo=cisco&logoColor=white) ![TCP/IP](https://img.shields.io/badge/Networking_Protocols-444444?style=for-the-badge) |
+| **Simulation** | ![Proteus](https://img.shields.io/badge/Advanced_Proteus-blue?style=for-the-badge) ![MATLAB](https://img.shields.io/badge/MATLAB_Proficiency-ED1C24?style=for-the-badge&logo=mathworks&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/Proficient_C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++_Development-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python_Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+
+---
+
+### 🎵 Chill Zone (Current Vibe)
+<p align="center">
+  <a href="https://open.spotify.com/playlist/YOUR_PLAYLIST_ID">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=tokyonight" alt="Spotify" />
+  </a>
+</p>
 
 ---
 
@@ -53,5 +66,5 @@ I'm a **Communications & Computers Engineering (CCE)** student at **Nahda Univer
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" />
   <br>
-  <i>"Engineering is not just a degree; it's a lifelong journey of learning."</i>
+  <i>"Success is where preparation and opportunity meet."</i>
 </p>
