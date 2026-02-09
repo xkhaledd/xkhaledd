@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Khaled%20Taha&fontSize=90&animation=fadeIn" />
 </p>
 
-### 📡 CCE Student @ NUB | Aspiring Network Engineer
+### 📡 Communications & Electronics Engineering Student | NUB
 <p align="left">
   <img src="https://img.shields.io/badge/Location-Bani%20Suwayf,%20Egypt-blue?style=flat-square&logo=googlemaps" alt="Location">
   <img src="https://img.shields.io/badge/Education-Nahda%20University%20(NUB)-red?style=flat-square&logo=gitbook" alt="Education">
@@ -12,7 +12,7 @@
 ---
 
 ### ⚡ About Me
-I'm a **Communications & Computers Engineering (CCE)** student at **Nahda University (NUB)**. My passion for technology started early with smartphone software maintenance, giving me a practical edge in troubleshooting. Currently, I am pivoting my focus towards **Network Engineering** and Telecommunications, building a strong academic foundation while self-studying industry certifications.
+I'm a **Communications & Electronics Engineering** student at **Nahda University (NUB)**. My passion for technology started early with smartphone software maintenance, giving me a practical edge in troubleshooting. Currently, I am pivoting my focus towards **Network Engineering** and Telecommunications, building a strong academic foundation while self-studying industry certifications.
 
 - 🎓 **Academic Path:** Freshman (First-Year) student, Class of 2029.
 - 🛠️ **Practical Background:** Experience in Smartphone Software (Soft/Hard) & Talent Acquisition.
