@@ -26,8 +26,8 @@ I'm a **Communications & Electronics Engineering** student at **Nahda University
 | Category | Topics & Tools |
 | :--- | :--- |
 | **Networking** | ![CCNA](https://img.shields.io/badge/CCNA_200--301-Studying-00599C?style=for-the-badge&logo=cisco&logoColor=white) ![Network+](https://img.shields.io/badge/CompTIA_Network+-Learning-red?style=for-the-badge) |
-| **Languages** | ![C](https://img.shields.io/badge/C_Fundamentals-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-Basics-3776AB?style=for-the-badge&logo=python&logoColor=white) |
-| **General Tools** | ![Git](https://img.shields.io/badge/Git-Basics-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+| **Languages** | ![C](https://img.shields.io/badge/C-Core_Concepts-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-Scripting-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **General Tools** | ![Git](https://img.shields.io/badge/Git-Source_Control-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-Preferred_IDE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 ---
 
@@ -42,7 +42,7 @@ I'm a **Communications & Electronics Engineering** student at **Nahda University
   <a href="https://khaledtaha.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://wa.me/201026048590" target="_blank">
+  <a href="https://wa.me/201017104501" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
 </p>
