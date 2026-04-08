@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Khaled%20Taha&fontSize=90&animation=fadeIn&fontAlignY=38" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Computer+%26+Communications+Engineering;CCE+Student+%7C+Network+Explorer;CCNA+%7C+Network%2B+%7C+Cybersecurity" alt="Typing SVG" />
-  </a>
-
   <br>
 
   <p align="center">
