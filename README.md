@@ -19,7 +19,7 @@ I am a **CCE Student** dedicated to the fields of network infrastructure and com
 
 - **Academic Path:** Sophomore Student, Class of 2029.
 - **Affiliation:** Cyber Security Committee Member at **IEEE Beni Suef**.
-- **Motto:** *"Connecting systems, securing data, one packet at a time."*
+- **Motto:** *"Bridging Electronics, Networks, and Cybersecurity."*
 
 ---
 
