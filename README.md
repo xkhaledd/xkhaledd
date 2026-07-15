@@ -27,8 +27,7 @@ I am a **CCE Student** dedicated to the fields of network infrastructure and com
 
 ![NETWORK](https://img.shields.io/badge/-NETWORK-2f353b?style=flat-square)
 ![CCNA 200--301 (IN PROGRESS)](https://img.shields.io/badge/CCNA%20200--301-IN%20PROGRESS-1f6feb?style=flat-square)
-![NETWORK](https://img.shields.io/badge/-NETWORK-2f353b?style=flat-square)
-![SIMULATION](https://img.shields.io/badge/-SIMULATION-2f353b?style=flat-square)
+![NETWORK](https://img.shields.io/badge/-NETWORK-2f353b?style=flat-square)![SIMULATION](https://img.shields.io/badge/-SIMULATION-2f353b?style=flat-square)
 ![PACKET TRACER](https://img.shields.io/badge/-PACKET%20TRACER-17A2E0?style=flat-square)
 
 ![EMBEDDED](https://img.shields.io/badge/-EMBEDDED-2f353b?style=flat-square)
