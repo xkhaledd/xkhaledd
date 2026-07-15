@@ -1,141 +1,46 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f4c81,100:1f6feb&text=Khaled%20Taha&fontColor=ffffff&fontSize=60&fontAlignY=38&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Khaled%20Taha&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</div>
 
-<h2 align="center">Computer and Communications Engineering Student</h2>
+<div align="center">
 
-<p align="center">
-  <strong>Networking • Cybersecurity • Python</strong>
-</p>
+![Location](https://img.shields.io/badge/Location-Bani%20Suwayf%2C%20Egypt-2f353b?style=flat-square)
+![Education](https://img.shields.io/badge/Education-NUB%20University-e6383a?style=flat-square)
 
-<p align="center">
-  <a href="https://github.com/xkhaledd">
-    <img src="https://img.shields.io/badge/GitHub-xkhaledd-181717?style=for-the-badge&logo=github" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/khaled-taha-abdelkarim">
-    <img src="https://img.shields.io/badge/LinkedIn-Khaled%20Taha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
-# 👋 About Me
+### 🖋️ PROFILE SUMMARY
 
-I'm a **Computer and Communications Engineering (CCE)** student at **Nahda University (NUB)** with a strong interest in **Networking** and **Cybersecurity**.
+`Computer and Communications Engineering (CCE) Student @ NUB`
 
-I enjoy building strong technical foundations through hands-on labs, practical projects, and continuous learning.
+I am a **CCE Student** dedicated to the fields of network infrastructure and communication systems. With a practical background in smartphone software maintenance, I am currently expanding my expertise in **Telecommunications**, **Computer Networks**, and **Cyber Security**.
 
-Currently, I'm focusing on becoming a Cybersecurity Engineer by mastering networking, Linux, programming, and security fundamentals.
-
----
-
-# 🎯 Current Focus
-
-- 🌐 Cisco CCNA 200-301
-- 🐍 Python Programming
-- 🐧 Linux Fundamentals
-- 🔒 Cybersecurity Foundations
-- ⚡ Network Automation
+- **Academic Path:** Sophomore Student, Class of 2029.
+- **Affiliation:** Cyber Security Committee Member at **IEEE Beni Suef**.
+- **Motto:** *"Connecting systems, securing data, one packet at a time."*
 
 ---
 
-# 🛠 Technical Skills
+### 🔧 TECHNICAL EXPERTISE
 
-### Networking
+![NETWORK](https://img.shields.io/badge/-NETWORK-2f353b?style=flat-square)
+![CCNA 200--301 (IN PROGRESS)](https://img.shields.io/badge/CCNA%20200--301-IN%20PROGRESS-1f6feb?style=flat-square)
+![NETWORK](https://img.shields.io/badge/-NETWORK-2f353b?style=flat-square)
+![SIMULATION](https://img.shields.io/badge/-SIMULATION-2f353b?style=flat-square)
+![PACKET TRACER](https://img.shields.io/badge/-PACKET%20TRACER-17A2E0?style=flat-square)
 
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=for-the-badge&logo=cisco)
-![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-blue?style=for-the-badge)
-![Routing](https://img.shields.io/badge/Routing-Switching-success?style=for-the-badge)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-Labs-orange?style=for-the-badge)
+![EMBEDDED](https://img.shields.io/badge/-EMBEDDED-2f353b?style=flat-square)
+![ARDUINO](https://img.shields.io/badge/-ARDUINO-00979D?style=flat-square)
+![C DEV](https://img.shields.io/badge/-C%20DEV-2f353b?style=flat-square)
+![C LANGUAGE](https://img.shields.io/badge/-C%20LANGUAGE-3a4652?style=flat-square)
+![PYTHON DEV](https://img.shields.io/badge/-PYTHON%20DEV-2f353b?style=flat-square)
+![PYTHON SCRIPTING](https://img.shields.io/badge/-PYTHON%20SCRIPTING-1f6feb?style=flat-square)
 
----
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![C](https://img.shields.io/badge/C-Programming-00599C?style=for-the-badge&logo=c)
-
----
-
-### Operating Systems
-
-![Linux](https://img.shields.io/badge/Linux-Learning-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![VCS](https://img.shields.io/badge/-VCS-2f353b?style=flat-square)
+![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat-square)
+![IDE](https://img.shields.io/badge/-IDE-2f353b?style=flat-square)
+![VS CODE](https://img.shields.io/badge/-VS%20CODE-007ACC?style=flat-square)
 
 ---
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
----
-
-# 📚 Current Projects
-
-- 📡 CCNA Labs
-- 🐍 Python Learning Journey
-- 🔒 Cybersecurity Roadmap
-- ⚙️ Network Automation (Coming Soon)
-
----
-
-# 🎓 Education
-
-**Nahda University (NUB)**
-
-Faculty of Engineering
-
-Computer and Communications Engineering
-
-**Expected Graduation:** 2029
-
----
-
-# 🌱 Currently Learning
-
-- Cisco CCNA
-- Python
-- Linux
-- Git & GitHub
-- Cybersecurity Fundamentals
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=xkhaledd&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkhaledd&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/khaled-taha-abdelkarim">
-<img src="https://img.shields.io/badge/LinkedIn-Khaled%20Taha-blue?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="https://github.com/xkhaledd">
-<img src="https://img.shields.io/badge/GitHub-xkhaledd-black?style=for-the-badge&logo=github">
-</a>
-
-</p>
-
----
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
